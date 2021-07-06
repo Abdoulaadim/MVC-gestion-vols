@@ -1,8 +1,13 @@
 # Application/site de gestion de réservations de vols
 Une compagnie aérienne veut créer une application pour gérer les réservations des vols offerts
 
+Client=====>HH65342    /  Password : 12345
+Admin=====>HH23456    /  Password : 12345
+
 
 =>Le formulaire s'adapte selon le choix (aller-simple ou aller-retour)/search
+
+
 ![bref5_MVC_vols_shearch](https://user-images.githubusercontent.com/77145529/124583413-ea9c7380-de4a-11eb-8941-4d34e1051245.gif)
 
 =>interface graphique Client 
