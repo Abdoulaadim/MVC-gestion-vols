@@ -1,8 +1,8 @@
 # Application/site de gestion de réservations de vols
 Une compagnie aérienne veut créer une application pour gérer les réservations des vols offerts
 
-Client=====>HH65342    /  Password : 12345
-Admin=====>HH23456    /  Password : 12345
+//Client=====>HH65342    /  Password : 12345
+//Admin=====>HH23456    /  Password : 12345
 
 
 =>Le formulaire s'adapte selon le choix (aller-simple ou aller-retour)/search
